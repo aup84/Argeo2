@@ -654,4 +654,5 @@ PlayerSettings:
   projectName: Argeo2 (2)
   organizationId: aup84
   cloudEnabled: 0
-  enableNativePlatformBackendsForNe
+  enableNativePlatformBackendsForNewInputSystem: 0
+  disableOldInputManagerSupport: 0
